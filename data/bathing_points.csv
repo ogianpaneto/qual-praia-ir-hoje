@@ -1,0 +1,62 @@
+beach_id,point_id,status,location,source
+praia-de-camburi,P01A,Próprio,Próximo ao Viaduto Araceli Cabreira Crespo,https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-camburi,P02,Próprio,Praia de Camburi (Av. Dante Michelini - Esquina com Rua Silvino Grecco),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-camburi,P02A,Próprio,Praia de Camburi (Av. Dante Michelini - A 100 metros à direita do 3º Píer – Jardim Camburi),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-camburi,P03,Próprio,Praia de Camburi (Av. Dante Michelini - a 150 metros antes do 2º píer),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-camburi,P04,Impróprio,Praia de Camburi (Av. Dante Michelini - Esquina com Av. Adalberto Simão Nader),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-camburi,P05,Próprio,Praia de Camburi (Av. Dante Michelini - Esquina com Av. Nicolau Von Shilgen),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-camburi,P06,Próprio,Praia de Camburi (Av.Dante Micheline - Esquina com a R.Comissário Otávio Queiroz),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-camburi,P07,Próprio,Praia de Camburi (Av. Dante Michelini - Esquina com a R. Eugenílio Ramos),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-camburi,P08,Próprio,Praia de Camburi (Av. Dante Micheline - 150 metros antes do 1° píer),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-camburi,P09,Interditado,Praia de Camburi (Canal de Camburi - 50 m após o 1° píer),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-do-canto,P10,Próprio,Praia do Canto (80 metros após o Iate Clube),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-do-canto,P11,Impróprio,Praia do Canto (80 metros antes da ponte da Ilha do Frade),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-santa-helena,P11A,Impróprio,Praia de Santa Helena / Enseada do Suá - 20 metros à direita da ponte da Ilha do Frade,https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-santa-helena,P12,Próprio,Praia de Santa Helena (100 metros após a ponte da Ilha do Frade),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-santa-helena,P12A,Próprio,Praça dos Desejos (em frente à Escola de Velas),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-santa-helena,P13,Próprio,Praia de Santa Helena (200 metros antes das barracas da Curva da Jurema),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-da-curva-da-jurema,P14,Próprio,Praia de Santa Helena (Em frente as barracas da Curva da Jurema),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-da-direita,P15,Próprio,Ilha do Frade (Praia da Direita),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-das-castanheiras,P16,Próprio,Ilha do Frade (Praia das Castanheiras),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-da-ilha-do-frade,P17,Próprio,"Ilha do Frade (R. Des. Alfredo Cabral ,em frente ao n° 1255)",https://www.vitoria.es.gov.br/balneabilidade.php
+praia-do-nenel,P18,Próprio,Ilha do Boi (Praia do Nenel),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-grande,P19,Próprio,Ilha do Boi (Praia Grande),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-do-sua,P20,Impróprio,Enseada do Suá (Praia do Suá - Ao lado da Capitania dos Portos),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-do-meio,P21,Próprio,Enseada do Suá (Praia do Meio - Embaixo da 3ª ponte),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-santo-antonio,P22,Interditado,Praia de Santo Antônio (Academia Popular),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-do-canal-de-camburi,P23,Interditado,Canal da Passagem (Próximo a Ponte da Passagem -J.da Penha),https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-jesus-de-nazareth,P24,Interditado,Jesus de Nazareth,https://www.vitoria.es.gov.br/balneabilidade.php
+praia-de-itaparica,8,Próprio,Praia de Itaparica I,https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx
+praia-de-itaparica,9,Próprio,Praia de Itaparica II,https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx
+praia-de-itapua-beverly-hills,10,Próprio,Praia de Itapuã - 'Beverly Hills',https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx
+praia-da-costa,11,Próprio,Praia da Costa I - Champagnat,https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx
+praia-da-costa,12,Próprio,Praia da Costa II - Praia da Sereia,https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx
+praia-do-ribeiro,13,Impróprio,Praia do Ribeiro,https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx
+prainha,14,Impróprio,Prainha,https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx
+praia-secreta,15,Próprio,Praia Secreta,https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx
+praia-do-bananal,16,Próprio,Praia do Bananal,https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx
+nova-almeida,4B73D5C65A000002,Próprio,Ponto 2 - Nova Almeida I,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+nova-almeida,4B73D5C65A000003,Próprio,Ponto 3 - Nova Almeida II,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+costa-bela,4B73D5C65A000004,Próprio,Ponto 4 - Costa Bela,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+capuba,4B73D5C65A000005,Próprio,Ponto 5 - Capuba,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+jacaraipe,4B73D5C65A000008,Próprio,Ponto 8 - Jacaraípe III,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+jacaraipe,4B73D5C65A000009,Próprio,Ponto 9 - Jacaraípe IV - Solemar,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+jacaraipe,4B73D5C65A00000D,Próprio,Ponto 13 - Jacaraípe VII,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+foz-corrego-laripe,4B73D5C65A00000E,Próprio,Ponto 14 - Foz Córrego Laripe,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+manguinhos,4B73D5C65B000010,Próprio,Ponto 16 - Manguinhos I,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+manguinhos,4B73D5C65B000011,Próprio,Ponto 17 - Manguinhos II,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+manguinhos,4B73D5C65B000012,Próprio,Ponto 18 - Manguinhos III,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+manguinhos,4B73D5C65B000013,Próprio,Ponto 19 - Manguinhos IV,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+bicanga,4B73D5C65B000015,Próprio,Ponto 21- Bicanga I,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+bicanga,4B73D5C65B000016,Próprio,Ponto 22 - Bicanga II,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+balneario-de-carapebus,4B73D5C65B000017,Próprio,Ponto 23 - Balneário de Carapebus,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+carapebus,4B73D5C65B000019,Próprio,Ponto 25 - Carapebus I,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+carapebus,4B73D5C65B00001A,Próprio,Ponto 26 - Carapebus II,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+jacaraipe,5C3FE23DBD000003,Impróprio,Ponto 10 - Jacaraípe V Curva da Baleia,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+rio-reis-magos,5C3FE23DBD000004,Impróprio,Ponto 1 - Rio Reis Magos,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+jacaraipe,5C3FE23DBD000005,Impróprio,Ponto 7 - Jacaraípe II - Barrote,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+foz-do-irema,5C3FE23DBD000006,Impróprio,Ponto 11 - Foz do Irema,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+guaxindiba,5C3FE23DBD00000A,Impróprio,Ponto 20 - Guaxindiba,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+jacaraipe,5C3FE23DBD000007,Próprio,Ponto 12 - Jacaraípe VI,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+corrego-maringa,5C3FE23DBD000008,Impróprio,Ponto 15 - Córrego Maringá,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias
+lagoa-carapebus,5C3FE23DBD000009,Impróprio,Ponto 24 - Lagoa Carapebus,https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias

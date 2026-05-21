@@ -1,0 +1,1033 @@
+{
+  "generated_at": "2026-05-21T22:24:20.793719+00:00",
+  "method": {
+    "public_perception_weight": 0.45,
+    "weather_weight": 0.55,
+    "bathing_penalty_if_all_points_bad": 15.0
+  },
+  "beaches": [
+    {
+      "id": "nova-almeida",
+      "name": "Praia de Nova Almeida",
+      "neighborhood": "Nova Almeida",
+      "city": "Serra",
+      "coordinates": {
+        "latitude": -20.057220326683282,
+        "longitude": -40.18908035880036
+      },
+      "index": 76.26,
+      "classification": "Boa",
+      "components": {
+        "public_perception": 65.86,
+        "sentiment": 56.09,
+        "ratings": 84.0,
+        "weather": 84.78
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 15,
+        "negative_terms": 14,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 2,
+        "bathing_points_proper": 2,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "4B73D5C65A000002",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ponto 2 - Nova Almeida I",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          },
+          {
+            "point_id": "4B73D5C65A000003",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ponto 3 - Nova Almeida II",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.7,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 19.0,
+        "wind_kmh": 16.3,
+        "uv_index": 0.0,
+        "wave_height_m": 1.78,
+        "weather_warnings": [
+          "Mar agitado: 1.8 m"
+        ]
+      }
+    },
+    {
+      "id": "manguinhos",
+      "name": "Praia de Manguinhos",
+      "neighborhood": "Manguinhos",
+      "city": "Serra",
+      "coordinates": {
+        "latitude": -20.20531140899765,
+        "longitude": -40.19652392040734
+      },
+      "index": 72.49,
+      "classification": "Boa",
+      "components": {
+        "public_perception": 92.05,
+        "sentiment": 87.77,
+        "ratings": 100.0,
+        "weather": 56.48
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 34,
+        "negative_terms": 1,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 4,
+        "bathing_points_proper": 4,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "4B73D5C65B000010",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ponto 16 - Manguinhos I",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          },
+          {
+            "point_id": "4B73D5C65B000011",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ponto 17 - Manguinhos II",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          },
+          {
+            "point_id": "4B73D5C65B000012",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ponto 18 - Manguinhos III",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          },
+          {
+            "point_id": "4B73D5C65B000013",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ponto 19 - Manguinhos IV",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.9,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 19.9,
+        "uv_index": 0.0,
+        "wave_height_m": 1.12,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%"
+        ]
+      }
+    },
+    {
+      "id": "praia-grande",
+      "name": "Praia Grande",
+      "neighborhood": "Ilha do Boi",
+      "city": "Vitoria",
+      "coordinates": {
+        "latitude": -20.30881954925277,
+        "longitude": -40.28131873887501
+      },
+      "index": 66.12,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 81.29,
+        "sentiment": 73.36,
+        "ratings": 96.0,
+        "weather": 53.71
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 18,
+        "negative_terms": 0,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 1,
+        "bathing_points_proper": 1,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "P19",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ilha do Boi (Praia Grande)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.6,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 20.2,
+        "uv_index": 0.0,
+        "wave_height_m": 1.36,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.4 m"
+        ]
+      }
+    },
+    {
+      "id": "praia-da-costa",
+      "name": "Praia da Costa",
+      "neighborhood": "Praia da Costa",
+      "city": "Vila Velha",
+      "coordinates": {
+        "latitude": -20.33676994207048,
+        "longitude": -40.2812783118
+      },
+      "index": 64.9,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 77.62,
+        "sentiment": 67.72,
+        "ratings": 96.0,
+        "weather": 54.5
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 21,
+        "negative_terms": 1,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 2,
+        "bathing_points_proper": 2,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "11",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia da Costa I - Champagnat",
+            "valid_until": "",
+            "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
+            "notes": ""
+          },
+          {
+            "point_id": "12",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia da Costa II - Praia da Sereia",
+            "valid_until": "",
+            "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.7,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 18.8,
+        "uv_index": 0.0,
+        "wave_height_m": 1.62,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.6 m"
+        ]
+      }
+    },
+    {
+      "id": "praia-de-itapua-beverly-hills",
+      "name": "Praia de Itapuã",
+      "neighborhood": "Itapuã",
+      "city": "Vila Velha",
+      "coordinates": {
+        "latitude": -20.35342566684466,
+        "longitude": -40.28372393238014
+      },
+      "index": 64.26,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 76.18,
+        "sentiment": 69.81,
+        "ratings": 88.0,
+        "weather": 54.5
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 22,
+        "negative_terms": 2,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 1,
+        "bathing_points_proper": 1,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "10",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Itapuã - 'Beverly Hills'",
+            "valid_until": "",
+            "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.7,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 18.8,
+        "uv_index": 0.0,
+        "wave_height_m": 1.62,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.6 m"
+        ]
+      }
+    },
+    {
+      "id": "praia-da-curva-da-jurema",
+      "name": "Curva da Jurema",
+      "neighborhood": "Praia do Canto",
+      "city": "Vitoria",
+      "coordinates": {
+        "latitude": -20.308980521537812,
+        "longitude": -40.2878002180034
+      },
+      "index": 63.78,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 76.08,
+        "sentiment": 69.66,
+        "ratings": 88.0,
+        "weather": 53.71
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 33,
+        "negative_terms": 5,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 1,
+        "bathing_points_proper": 1,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "P14",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Santa Helena (Em frente as barracas da Curva da Jurema)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.6,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 20.2,
+        "uv_index": 0.0,
+        "wave_height_m": 1.36,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.4 m"
+        ]
+      }
+    },
+    {
+      "id": "praia-de-itaparica",
+      "name": "Praia de Itaparica",
+      "neighborhood": "Itaparica",
+      "city": "Vila Velha",
+      "coordinates": {
+        "latitude": -20.36767644346582,
+        "longitude": -40.300268365631894
+      },
+      "index": 63.59,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 74.71,
+        "sentiment": 65.4,
+        "ratings": 92.0,
+        "weather": 54.5
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 20,
+        "negative_terms": 4,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 2,
+        "bathing_points_proper": 2,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "8",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Itaparica I",
+            "valid_until": "",
+            "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
+            "notes": ""
+          },
+          {
+            "point_id": "9",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Itaparica II",
+            "valid_until": "",
+            "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.8,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 18.8,
+        "uv_index": 0.0,
+        "wave_height_m": 1.62,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.6 m"
+        ]
+      }
+    },
+    {
+      "id": "praia-de-santa-helena",
+      "name": "Guarderia",
+      "neighborhood": "Enseada do Suá",
+      "city": "Vitoria",
+      "coordinates": {
+        "latitude": -20.306238274165892,
+        "longitude": -40.29086405492783
+      },
+      "index": 63.28,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 74.97,
+        "sentiment": 63.65,
+        "ratings": 96.0,
+        "weather": 53.71
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 10,
+        "negative_terms": 0,
+        "bathing_status": "Mista",
+        "bathing_severity": "warning",
+        "bathing_proper_percent": 75.0,
+        "bathing_bad_percent": 25.0,
+        "bathing_points_total": 4,
+        "bathing_points_proper": 3,
+        "bathing_points_improper": 1,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "P11A",
+            "status": "Impróprio",
+            "subdivision": "",
+            "location": "Praia de Santa Helena / Enseada do Suá - 20 metros à direita da ponte da Ilha do Frade",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P12",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Santa Helena (100 metros após a ponte da Ilha do Frade)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P12A",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praça dos Desejos (em frente à Escola de Velas)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P13",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Santa Helena (200 metros antes das barracas da Curva da Jurema)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.6,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 20.2,
+        "uv_index": 0.0,
+        "wave_height_m": 1.36,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.4 m"
+        ]
+      }
+    },
+    {
+      "id": "praia-do-bananal",
+      "name": "Praia do Bananal",
+      "neighborhood": "Praia da Costa",
+      "city": "Vila Velha",
+      "coordinates": {
+        "latitude": -20.323015384962922,
+        "longitude": -40.27340947525417
+      },
+      "index": 62.64,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 74.22,
+        "sentiment": 64.64,
+        "ratings": 92.0,
+        "weather": 53.17
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 13,
+        "negative_terms": 5,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 1,
+        "bathing_points_proper": 1,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "16",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia do Bananal",
+            "valid_until": "",
+            "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.6,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 20.2,
+        "uv_index": 0.0,
+        "wave_height_m": 1.36,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.4 m"
+        ]
+      }
+    },
+    {
+      "id": "jacaraipe",
+      "name": "Praia de Jacaraipe",
+      "neighborhood": "Jacaraipe",
+      "city": "Serra",
+      "coordinates": {
+        "latitude": -20.148500429485047,
+        "longitude": -40.18470175214145
+      },
+      "index": 62.6,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 71.31,
+        "sentiment": 64.48,
+        "ratings": 84.0,
+        "weather": 55.47
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 23,
+        "negative_terms": 7,
+        "bathing_status": "Mista",
+        "bathing_severity": "warning",
+        "bathing_proper_percent": 66.7,
+        "bathing_bad_percent": 33.3,
+        "bathing_points_total": 6,
+        "bathing_points_proper": 4,
+        "bathing_points_improper": 2,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "4B73D5C65A000008",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ponto 8 - Jacaraípe III",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          },
+          {
+            "point_id": "4B73D5C65A000009",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ponto 9 - Jacaraípe IV - Solemar",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          },
+          {
+            "point_id": "4B73D5C65A00000D",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ponto 13 - Jacaraípe VII",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          },
+          {
+            "point_id": "5C3FE23DBD000003",
+            "status": "Impróprio",
+            "subdivision": "",
+            "location": "Ponto 10 - Jacaraípe V Curva da Baleia",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          },
+          {
+            "point_id": "5C3FE23DBD000005",
+            "status": "Impróprio",
+            "subdivision": "",
+            "location": "Ponto 7 - Jacaraípe II - Barrote",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          },
+          {
+            "point_id": "5C3FE23DBD000007",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ponto 12 - Jacaraípe VI",
+            "valid_until": "",
+            "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.7,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 19.6,
+        "uv_index": 0.0,
+        "wave_height_m": 1.12,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%"
+        ]
+      }
+    },
+    {
+      "id": "praia-das-castanheiras",
+      "name": "Praia das Castanheiras",
+      "neighborhood": "Ilha do Frade",
+      "city": "Vitoria",
+      "coordinates": {
+        "latitude": -20.301100642310963,
+        "longitude": -40.27806216689104
+      },
+      "index": 62.02,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 72.19,
+        "sentiment": 61.52,
+        "ratings": 92.0,
+        "weather": 53.71
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 13,
+        "negative_terms": 3,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 1,
+        "bathing_points_proper": 1,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "P16",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ilha do Frade (Praia das Castanheiras)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.6,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 20.2,
+        "uv_index": 0.0,
+        "wave_height_m": 1.36,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.4 m"
+        ]
+      }
+    },
+    {
+      "id": "praia-de-camburi",
+      "name": "Praia de Camburi",
+      "neighborhood": "Jardim Camburi / Mata da Praia",
+      "city": "Vitoria",
+      "coordinates": {
+        "latitude": -20.280020125759233,
+        "longitude": -40.28693975419632
+      },
+      "index": 61.88,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 71.87,
+        "sentiment": 61.02,
+        "ratings": 92.0,
+        "weather": 53.71
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 22,
+        "negative_terms": 9,
+        "bathing_status": "Parcialmente interditada",
+        "bathing_severity": "danger",
+        "bathing_proper_percent": 80.0,
+        "bathing_bad_percent": 20.0,
+        "bathing_points_total": 10,
+        "bathing_points_proper": 8,
+        "bathing_points_improper": 1,
+        "bathing_points_interdicted": 1,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "P01A",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Próximo ao Viaduto Araceli Cabreira Crespo",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P02",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Camburi (Av. Dante Michelini - Esquina com Rua Silvino Grecco)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P02A",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Camburi (Av. Dante Michelini - A 100 metros à direita do 3º Píer – Jardim Camburi)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P03",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Camburi (Av. Dante Michelini - a 150 metros antes do 2º píer)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P04",
+            "status": "Impróprio",
+            "subdivision": "",
+            "location": "Praia de Camburi (Av. Dante Michelini - Esquina com Av. Adalberto Simão Nader)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P05",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Camburi (Av. Dante Michelini - Esquina com Av. Nicolau Von Shilgen)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P06",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Camburi (Av.Dante Micheline - Esquina com a R.Comissário Otávio Queiroz)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P07",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Camburi (Av. Dante Michelini - Esquina com a R. Eugenílio Ramos)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P08",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Camburi (Av. Dante Micheline - 150 metros antes do 1° píer)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P09",
+            "status": "Interditado",
+            "subdivision": "",
+            "location": "Praia de Camburi (Canal de Camburi - 50 m após o 1° píer)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.6,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 20.2,
+        "uv_index": 0.0,
+        "wave_height_m": 1.36,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.4 m"
+        ]
+      }
+    },
+    {
+      "id": "praia-da-ilha-do-frade",
+      "name": "Praia da Ilha do Frade",
+      "neighborhood": "Ilha do Frade",
+      "city": "Vitoria",
+      "coordinates": {
+        "latitude": -20.303242760743622,
+        "longitude": -40.285405737106096
+      },
+      "index": 60.36,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 68.5,
+        "sentiment": 60.15,
+        "ratings": 84.0,
+        "weather": 53.71
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 11,
+        "negative_terms": 8,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 1,
+        "bathing_points_proper": 1,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "P17",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Ilha do Frade (R. Des. Alfredo Cabral ,em frente ao n° 1255)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.6,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 20.2,
+        "uv_index": 0.0,
+        "wave_height_m": 1.36,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.4 m"
+        ]
+      }
+    },
+    {
+      "id": "praia-secreta",
+      "name": "Praia Secreta",
+      "neighborhood": "Praia da Costa",
+      "city": "Vila Velha",
+      "coordinates": {
+        "latitude": -20.324882763499275,
+        "longitude": -40.269813371742046
+      },
+      "index": 59.14,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 65.12,
+        "sentiment": 57.1,
+        "ratings": 80.0,
+        "weather": 54.25
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 11,
+        "negative_terms": 9,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 1,
+        "bathing_points_proper": 1,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "15",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia Secreta",
+            "valid_until": "",
+            "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.7,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 20.2,
+        "uv_index": 0.0,
+        "wave_height_m": 1.36,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.4 m"
+        ]
+      }
+    },
+    {
+      "id": "praia-do-canto",
+      "name": "Praia do Canto",
+      "neighborhood": "Praia do Canto",
+      "city": "Vitoria",
+      "coordinates": {
+        "latitude": -20.300615293432287,
+        "longitude": -40.29104712662063
+      },
+      "index": 56.0,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 58.8,
+        "sentiment": 49.54,
+        "ratings": 76.0,
+        "weather": 53.71
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 12,
+        "negative_terms": 12,
+        "bathing_status": "Mista",
+        "bathing_severity": "warning",
+        "bathing_proper_percent": 50.0,
+        "bathing_bad_percent": 50.0,
+        "bathing_points_total": 2,
+        "bathing_points_proper": 1,
+        "bathing_points_improper": 1,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "P10",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia do Canto (80 metros após o Iate Clube)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          },
+          {
+            "point_id": "P11",
+            "status": "Impróprio",
+            "subdivision": "",
+            "location": "Praia do Canto (80 metros antes da ponte da Ilha do Frade)",
+            "valid_until": "",
+            "source": "https://www.vitoria.es.gov.br/balneabilidade.php",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.6,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 20.2,
+        "uv_index": 0.0,
+        "wave_height_m": 1.36,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.4 m"
+        ]
+      }
+    }
+  ]
+}

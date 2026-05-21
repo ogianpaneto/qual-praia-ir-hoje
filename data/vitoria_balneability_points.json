@@ -1,0 +1,191 @@
+[
+  {
+    "beach_id": "praia-de-camburi",
+    "point_id": "P01A",
+    "status": "Próprio",
+    "location": "Próximo ao Viaduto Araceli Cabreira Crespo",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-camburi",
+    "point_id": "P02",
+    "status": "Próprio",
+    "location": "Praia de Camburi (Av. Dante Michelini - Esquina com Rua Silvino Grecco)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-camburi",
+    "point_id": "P02A",
+    "status": "Próprio",
+    "location": "Praia de Camburi (Av. Dante Michelini - A 100 metros à direita do 3º Píer – Jardim Camburi)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-camburi",
+    "point_id": "P03",
+    "status": "Próprio",
+    "location": "Praia de Camburi (Av. Dante Michelini - a 150 metros antes do 2º píer)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-camburi",
+    "point_id": "P04",
+    "status": "Impróprio",
+    "location": "Praia de Camburi (Av. Dante Michelini - Esquina com Av. Adalberto Simão Nader)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-camburi",
+    "point_id": "P05",
+    "status": "Próprio",
+    "location": "Praia de Camburi (Av. Dante Michelini - Esquina com Av. Nicolau Von Shilgen)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-camburi",
+    "point_id": "P06",
+    "status": "Próprio",
+    "location": "Praia de Camburi (Av.Dante Micheline - Esquina com a R.Comissário Otávio Queiroz)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-camburi",
+    "point_id": "P07",
+    "status": "Próprio",
+    "location": "Praia de Camburi (Av. Dante Michelini - Esquina com a R. Eugenílio Ramos)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-camburi",
+    "point_id": "P08",
+    "status": "Próprio",
+    "location": "Praia de Camburi (Av. Dante Micheline - 150 metros antes do 1° píer)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-camburi",
+    "point_id": "P09",
+    "status": "Interditado",
+    "location": "Praia de Camburi (Canal de Camburi - 50 m após o 1° píer)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-do-canto",
+    "point_id": "P10",
+    "status": "Próprio",
+    "location": "Praia do Canto (80 metros após o Iate Clube)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-do-canto",
+    "point_id": "P11",
+    "status": "Impróprio",
+    "location": "Praia do Canto (80 metros antes da ponte da Ilha do Frade)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-santa-helena",
+    "point_id": "P11A",
+    "status": "Impróprio",
+    "location": "Praia de Santa Helena / Enseada do Suá - 20 metros à direita da ponte da Ilha do Frade",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-santa-helena",
+    "point_id": "P12",
+    "status": "Próprio",
+    "location": "Praia de Santa Helena (100 metros após a ponte da Ilha do Frade)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-santa-helena",
+    "point_id": "P12A",
+    "status": "Próprio",
+    "location": "Praça dos Desejos (em frente à Escola de Velas)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-santa-helena",
+    "point_id": "P13",
+    "status": "Próprio",
+    "location": "Praia de Santa Helena (200 metros antes das barracas da Curva da Jurema)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-da-curva-da-jurema",
+    "point_id": "P14",
+    "status": "Próprio",
+    "location": "Praia de Santa Helena (Em frente as barracas da Curva da Jurema)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-da-direita",
+    "point_id": "P15",
+    "status": "Próprio",
+    "location": "Ilha do Frade (Praia da Direita)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-das-castanheiras",
+    "point_id": "P16",
+    "status": "Próprio",
+    "location": "Ilha do Frade (Praia das Castanheiras)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-da-ilha-do-frade",
+    "point_id": "P17",
+    "status": "Próprio",
+    "location": "Ilha do Frade (R. Des. Alfredo Cabral ,em frente ao n° 1255)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-do-nenel",
+    "point_id": "P18",
+    "status": "Próprio",
+    "location": "Ilha do Boi (Praia do Nenel)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-grande",
+    "point_id": "P19",
+    "status": "Próprio",
+    "location": "Ilha do Boi (Praia Grande)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-do-sua",
+    "point_id": "P20",
+    "status": "Impróprio",
+    "location": "Enseada do Suá (Praia do Suá - Ao lado da Capitania dos Portos)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-do-meio",
+    "point_id": "P21",
+    "status": "Próprio",
+    "location": "Enseada do Suá (Praia do Meio - Embaixo da 3ª ponte)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-santo-antonio",
+    "point_id": "P22",
+    "status": "Interditado",
+    "location": "Praia de Santo Antônio (Academia Popular)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-do-canal-de-camburi",
+    "point_id": "P23",
+    "status": "Interditado",
+    "location": "Canal da Passagem (Próximo a Ponte da Passagem -J.da Penha)",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  },
+  {
+    "beach_id": "praia-de-jesus-de-nazareth",
+    "point_id": "P24",
+    "status": "Interditado",
+    "location": "Jesus de Nazareth",
+    "source": "https://www.vitoria.es.gov.br/balneabilidade.php"
+  }
+]

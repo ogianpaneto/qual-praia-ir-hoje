@@ -1,0 +1,4 @@
+nltk>=3.9
+requests>=2.32
+beautifulsoup4>=4.13
+python-slugify>=8.0.0

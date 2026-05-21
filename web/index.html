@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Qual praia ir hoje?</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="topbar">
+        <div>
+          <p class="eyebrow">NLP, balneabilidade e clima</p>
+          <h1>Qual praia ir hoje?</h1>
+        </div>
+        <div class="updated" id="updatedAt">Atualizando...</div>
+      </section>
+
+      <section class="summary" id="summary"></section>
+      <section class="filters" aria-label="Filtros">
+        <div class="city-filter" id="cityFilter" role="group" aria-label="Filtrar por município"></div>
+      </section>
+      <section class="grid" id="beachGrid"></section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

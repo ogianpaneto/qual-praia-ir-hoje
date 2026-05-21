@@ -1,0 +1,177 @@
+[
+  {
+    "beach_id": "nova-almeida",
+    "point_id": "4B73D5C65A000002",
+    "status": "Próprio",
+    "location": "Ponto 2 - Nova Almeida I",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "nova-almeida",
+    "point_id": "4B73D5C65A000003",
+    "status": "Próprio",
+    "location": "Ponto 3 - Nova Almeida II",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "costa-bela",
+    "point_id": "4B73D5C65A000004",
+    "status": "Próprio",
+    "location": "Ponto 4 - Costa Bela",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "capuba",
+    "point_id": "4B73D5C65A000005",
+    "status": "Próprio",
+    "location": "Ponto 5 - Capuba",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "jacaraipe",
+    "point_id": "4B73D5C65A000008",
+    "status": "Próprio",
+    "location": "Ponto 8 - Jacaraípe III",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "jacaraipe",
+    "point_id": "4B73D5C65A000009",
+    "status": "Próprio",
+    "location": "Ponto 9 - Jacaraípe IV - Solemar",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "jacaraipe",
+    "point_id": "4B73D5C65A00000D",
+    "status": "Próprio",
+    "location": "Ponto 13 - Jacaraípe VII",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "foz-corrego-laripe",
+    "point_id": "4B73D5C65A00000E",
+    "status": "Próprio",
+    "location": "Ponto 14 - Foz Córrego Laripe",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "manguinhos",
+    "point_id": "4B73D5C65B000010",
+    "status": "Próprio",
+    "location": "Ponto 16 - Manguinhos I",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "manguinhos",
+    "point_id": "4B73D5C65B000011",
+    "status": "Próprio",
+    "location": "Ponto 17 - Manguinhos II",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "manguinhos",
+    "point_id": "4B73D5C65B000012",
+    "status": "Próprio",
+    "location": "Ponto 18 - Manguinhos III",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "manguinhos",
+    "point_id": "4B73D5C65B000013",
+    "status": "Próprio",
+    "location": "Ponto 19 - Manguinhos IV",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "bicanga",
+    "point_id": "4B73D5C65B000015",
+    "status": "Próprio",
+    "location": "Ponto 21- Bicanga I",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "bicanga",
+    "point_id": "4B73D5C65B000016",
+    "status": "Próprio",
+    "location": "Ponto 22 - Bicanga II",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "balneario-de-carapebus",
+    "point_id": "4B73D5C65B000017",
+    "status": "Próprio",
+    "location": "Ponto 23 - Balneário de Carapebus",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "carapebus",
+    "point_id": "4B73D5C65B000019",
+    "status": "Próprio",
+    "location": "Ponto 25 - Carapebus I",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "carapebus",
+    "point_id": "4B73D5C65B00001A",
+    "status": "Próprio",
+    "location": "Ponto 26 - Carapebus II",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "jacaraipe",
+    "point_id": "5C3FE23DBD000003",
+    "status": "Impróprio",
+    "location": "Ponto 10 - Jacaraípe V Curva da Baleia",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "rio-reis-magos",
+    "point_id": "5C3FE23DBD000004",
+    "status": "Impróprio",
+    "location": "Ponto 1 - Rio Reis Magos",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "jacaraipe",
+    "point_id": "5C3FE23DBD000005",
+    "status": "Impróprio",
+    "location": "Ponto 7 - Jacaraípe II - Barrote",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "foz-do-irema",
+    "point_id": "5C3FE23DBD000006",
+    "status": "Impróprio",
+    "location": "Ponto 11 - Foz do Irema",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "guaxindiba",
+    "point_id": "5C3FE23DBD00000A",
+    "status": "Impróprio",
+    "location": "Ponto 20 - Guaxindiba",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "jacaraipe",
+    "point_id": "5C3FE23DBD000007",
+    "status": "Próprio",
+    "location": "Ponto 12 - Jacaraípe VI",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "corrego-maringa",
+    "point_id": "5C3FE23DBD000008",
+    "status": "Impróprio",
+    "location": "Ponto 15 - Córrego Maringá",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  },
+  {
+    "beach_id": "lagoa-carapebus",
+    "point_id": "5C3FE23DBD000009",
+    "status": "Impróprio",
+    "location": "Ponto 24 - Lagoa Carapebus",
+    "source": "https://www.serra.es.gov.br/site/pagina/balneabilidade-das-praias"
+  }
+]

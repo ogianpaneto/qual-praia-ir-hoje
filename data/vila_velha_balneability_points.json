@@ -1,0 +1,65 @@
+[
+  {
+    "beach_id": "praia-de-itaparica",
+    "point_id": "8",
+    "status": "Próprio",
+    "location": "Praia de Itaparica I",
+    "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx"
+  },
+  {
+    "beach_id": "praia-de-itaparica",
+    "point_id": "9",
+    "status": "Próprio",
+    "location": "Praia de Itaparica II",
+    "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx"
+  },
+  {
+    "beach_id": "praia-de-itapua-beverly-hills",
+    "point_id": "10",
+    "status": "Próprio",
+    "location": "Praia de Itapuã - 'Beverly Hills'",
+    "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx"
+  },
+  {
+    "beach_id": "praia-da-costa",
+    "point_id": "11",
+    "status": "Próprio",
+    "location": "Praia da Costa I - Champagnat",
+    "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx"
+  },
+  {
+    "beach_id": "praia-da-costa",
+    "point_id": "12",
+    "status": "Próprio",
+    "location": "Praia da Costa II - Praia da Sereia",
+    "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx"
+  },
+  {
+    "beach_id": "praia-do-ribeiro",
+    "point_id": "13",
+    "status": "Impróprio",
+    "location": "Praia do Ribeiro",
+    "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx"
+  },
+  {
+    "beach_id": "prainha",
+    "point_id": "14",
+    "status": "Impróprio",
+    "location": "Prainha",
+    "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx"
+  },
+  {
+    "beach_id": "praia-secreta",
+    "point_id": "15",
+    "status": "Próprio",
+    "location": "Praia Secreta",
+    "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx"
+  },
+  {
+    "beach_id": "praia-do-bananal",
+    "point_id": "16",
+    "status": "Próprio",
+    "location": "Praia do Bananal",
+    "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx"
+  }
+]

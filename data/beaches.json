@@ -1,0 +1,126 @@
+[
+  {
+    "id": "nova-almeida",
+    "name": "Praia de Nova Almeida",
+    "city": "Serra",
+    "neighborhood": "Nova Almeida",
+    "latitude": -20.057220326683282,
+    "longitude": -40.18908035880036
+  },
+  {
+    "id": "jacaraipe",
+    "name": "Praia de Jacaraipe",
+    "city": "Serra",
+    "neighborhood": "Jacaraipe",
+    "latitude": -20.148500429485047,
+    "longitude": -40.18470175214145
+  },
+  {
+    "id": "manguinhos",
+    "name": "Praia de Manguinhos",
+    "city": "Serra",
+    "neighborhood": "Manguinhos",
+    "latitude": -20.20531140899765,
+    "longitude": -40.19652392040734
+  },
+
+
+  {
+    "id": "praia-de-camburi",
+    "name": "Praia de Camburi",
+    "city": "Vitoria",
+    "neighborhood": "Jardim Camburi / Mata da Praia",
+    "latitude": -20.280020125759233,
+    "longitude": -40.28693975419632
+  },
+  {
+    "id": "praia-do-canto",
+    "name": "Praia do Canto",
+    "city": "Vitoria",
+    "neighborhood": "Praia do Canto",
+    "latitude": -20.300615293432287,
+    "longitude": -40.29104712662063
+  },
+  {
+    "id": "praia-da-curva-da-jurema",
+    "name": "Curva da Jurema",
+    "city": "Vitoria",
+    "neighborhood": "Praia do Canto",
+    "latitude": -20.308980521537812,
+    "longitude": -40.2878002180034
+  },
+  {
+    "id": "praia-de-santa-helena",
+    "name": "Guarderia",
+    "city": "Vitoria",
+    "neighborhood": "Enseada do Suá",
+    "latitude": -20.306238274165892,
+    "longitude": -40.29086405492783
+  },
+  {
+    "id": "praia-grande",
+    "name": "Praia Grande",
+    "city": "Vitoria",
+    "neighborhood": "Ilha do Boi",
+    "latitude": -20.30881954925277,
+    "longitude": -40.28131873887501
+  },
+  {
+    "id": "praia-das-castanheiras",
+    "name": "Praia das Castanheiras",
+    "city": "Vitoria",
+    "neighborhood": "Ilha do Frade",
+    "latitude": -20.301100642310963,
+    "longitude": -40.27806216689104
+  },
+  {
+    "id": "praia-da-ilha-do-frade",
+    "name": "Praia da Ilha do Frade",
+    "city": "Vitoria",
+    "neighborhood": "Ilha do Frade",
+    "latitude": -20.303242760743622,
+    "longitude": -40.285405737106096 
+  },
+
+  
+  {
+    "id": "praia-da-costa",
+    "name": "Praia da Costa",
+    "city": "Vila Velha",
+    "neighborhood": "Praia da Costa",
+    "latitude": -20.33676994207048,
+    "longitude": -40.2812783118
+  },
+  {
+    "id": "praia-de-itapua-beverly-hills",
+    "name": "Praia de Itapuã",
+    "city": "Vila Velha",
+    "neighborhood": "Itapuã",
+    "latitude": -20.35342566684466,
+    "longitude": -40.28372393238014
+  },
+  {
+    "id": "praia-de-itaparica",
+    "name": "Praia de Itaparica",
+    "city": "Vila Velha",
+    "neighborhood": "Itaparica",
+    "latitude": -20.36767644346582,
+    "longitude": -40.300268365631894
+  },
+  {
+    "id": "praia-secreta",
+    "name": "Praia Secreta",
+    "city": "Vila Velha",
+    "neighborhood": "Praia da Costa",
+    "latitude": -20.324882763499275,
+    "longitude": -40.269813371742046
+  },
+  {
+    "id": "praia-do-bananal",
+    "name": "Praia do Bananal",
+    "city": "Vila Velha",
+    "neighborhood": "Praia da Costa",
+    "latitude": -20.323015384962922,
+    "longitude": -40.27340947525417
+  }
+]
