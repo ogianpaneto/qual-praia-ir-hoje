@@ -17,12 +17,12 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-def main():
-    args = parse_args()
+def generate_index(output: Path | None = None, skip_bathing_scrape: bool = False) -> dict:
+    output = output or DATA_DIR / "latest_index.json"
     beaches = load_json(DATA_DIR / "beaches.json")
     posts = load_csv(DATA_DIR / "reviews.csv")
 
-    if not args.skip_bathing_scrape:
+    if not skip_bathing_scrape:
         scraped_bathing = scrape_bathing_points()
         if scraped_bathing:
             write_bathing_points_csv(scraped_bathing, DATA_DIR / "bathing_points.csv")
@@ -41,8 +41,14 @@ def main():
         weather = load_local_weather(DATA_DIR / "weather_snapshot.csv")
 
     result = build_index(beaches, posts, weather, bathing)
-    args.output.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Índice gerado em {args.output}")
+    output.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Índice gerado em {output}")
+    return result
+
+
+def main():
+    args = parse_args()
+    generate_index(args.output, args.skip_bathing_scrape)
 
 if __name__ == "__main__":
     main()

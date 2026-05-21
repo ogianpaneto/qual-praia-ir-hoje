@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-21T22:24:20.793719+00:00",
+  "generated_at": "2026-05-21T23:12:25.614882+00:00",
   "method": {
-    "public_perception_weight": 0.45,
-    "weather_weight": 0.55,
+    "public_perception_weight": 0.4,
+    "weather_weight": 0.6,
     "bathing_penalty_if_all_points_bad": 15.0
   },
   "beaches": [
@@ -15,13 +15,13 @@
         "latitude": -20.057220326683282,
         "longitude": -40.18908035880036
       },
-      "index": 76.26,
+      "index": 77.32,
       "classification": "Boa",
       "components": {
         "public_perception": 65.86,
         "sentiment": 56.09,
         "ratings": 84.0,
-        "weather": 84.78
+        "weather": 84.97
       },
       "signals": {
         "posts_analyzed": 5,
@@ -57,12 +57,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.7,
+        "temperature_c": 22.6,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 19.0,
-        "wind_kmh": 16.3,
+        "wind_kmh": 15.9,
         "uv_index": 0.0,
-        "wave_height_m": 1.78,
+        "wave_height_m": 1.8,
         "weather_warnings": [
           "Mar agitado: 1.8 m"
         ]
@@ -77,13 +77,13 @@
         "latitude": -20.20531140899765,
         "longitude": -40.19652392040734
       },
-      "index": 72.49,
+      "index": 70.41,
       "classification": "Boa",
       "components": {
         "public_perception": 92.05,
         "sentiment": 87.77,
         "ratings": 100.0,
-        "weather": 56.48
+        "weather": 55.99
       },
       "signals": {
         "posts_analyzed": 5,
@@ -137,12 +137,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.9,
+        "temperature_c": 22.8,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 19.9,
+        "wind_kmh": 19.8,
         "uv_index": 0.0,
-        "wave_height_m": 1.12,
+        "wave_height_m": 1.14,
         "weather_warnings": [
           "Alta chance de chuva: 90%"
         ]
@@ -157,13 +157,13 @@
         "latitude": -20.30881954925277,
         "longitude": -40.28131873887501
       },
-      "index": 66.12,
+      "index": 64.64,
       "classification": "Regular",
       "components": {
         "public_perception": 81.29,
         "sentiment": 73.36,
         "ratings": 96.0,
-        "weather": 53.71
+        "weather": 53.54
       },
       "signals": {
         "posts_analyzed": 5,
@@ -190,12 +190,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.6,
+        "temperature_c": 22.5,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 20.2,
+        "wind_kmh": 19.9,
         "uv_index": 0.0,
-        "wave_height_m": 1.36,
+        "wave_height_m": 1.38,
         "weather_warnings": [
           "Alta chance de chuva: 90%",
           "Mar agitado: 1.4 m"
@@ -211,13 +211,13 @@
         "latitude": -20.33676994207048,
         "longitude": -40.2812783118
       },
-      "index": 64.9,
+      "index": 62.81,
       "classification": "Regular",
       "components": {
         "public_perception": 77.62,
         "sentiment": 67.72,
         "ratings": 96.0,
-        "weather": 54.5
+        "weather": 52.94
       },
       "signals": {
         "posts_analyzed": 5,
@@ -253,66 +253,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.7,
+        "temperature_c": 22.5,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 18.8,
+        "wind_kmh": 18.4,
         "uv_index": 0.0,
-        "wave_height_m": 1.62,
-        "weather_warnings": [
-          "Alta chance de chuva: 90%",
-          "Mar agitado: 1.6 m"
-        ]
-      }
-    },
-    {
-      "id": "praia-de-itapua-beverly-hills",
-      "name": "Praia de Itapuã",
-      "neighborhood": "Itapuã",
-      "city": "Vila Velha",
-      "coordinates": {
-        "latitude": -20.35342566684466,
-        "longitude": -40.28372393238014
-      },
-      "index": 64.26,
-      "classification": "Regular",
-      "components": {
-        "public_perception": 76.18,
-        "sentiment": 69.81,
-        "ratings": 88.0,
-        "weather": 54.5
-      },
-      "signals": {
-        "posts_analyzed": 5,
-        "positive_terms": 22,
-        "negative_terms": 2,
-        "bathing_status": "Própria",
-        "bathing_severity": "good",
-        "bathing_proper_percent": 100.0,
-        "bathing_bad_percent": 0.0,
-        "bathing_points_total": 1,
-        "bathing_points_proper": 1,
-        "bathing_points_improper": 0,
-        "bathing_points_interdicted": 0,
-        "bathing_points_attention": 0,
-        "bathing_index_penalty": 0.0,
-        "bathing_points": [
-          {
-            "point_id": "10",
-            "status": "Próprio",
-            "subdivision": "",
-            "location": "Praia de Itapuã - 'Beverly Hills'",
-            "valid_until": "",
-            "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
-            "notes": ""
-          }
-        ],
-        "temperature_c": 22.7,
-        "precipitation_mm": 0.0,
-        "precipitation_probability_percent": 90.0,
-        "wind_kmh": 18.8,
-        "uv_index": 0.0,
-        "wave_height_m": 1.62,
+        "wave_height_m": 1.64,
         "weather_warnings": [
           "Alta chance de chuva: 90%",
           "Mar agitado: 1.6 m"
@@ -328,13 +274,13 @@
         "latitude": -20.308980521537812,
         "longitude": -40.2878002180034
       },
-      "index": 63.78,
+      "index": 62.56,
       "classification": "Regular",
       "components": {
         "public_perception": 76.08,
         "sentiment": 69.66,
         "ratings": 88.0,
-        "weather": 53.71
+        "weather": 53.54
       },
       "signals": {
         "posts_analyzed": 5,
@@ -361,12 +307,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.6,
+        "temperature_c": 22.5,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 20.2,
+        "wind_kmh": 19.9,
         "uv_index": 0.0,
-        "wave_height_m": 1.36,
+        "wave_height_m": 1.38,
         "weather_warnings": [
           "Alta chance de chuva: 90%",
           "Mar agitado: 1.4 m"
@@ -374,62 +320,53 @@
       }
     },
     {
-      "id": "praia-de-itaparica",
-      "name": "Praia de Itaparica",
-      "neighborhood": "Itaparica",
+      "id": "praia-de-itapua-beverly-hills",
+      "name": "Praia de Itapuã",
+      "neighborhood": "Itapuã",
       "city": "Vila Velha",
       "coordinates": {
-        "latitude": -20.36767644346582,
-        "longitude": -40.300268365631894
+        "latitude": -20.35342566684466,
+        "longitude": -40.28372393238014
       },
-      "index": 63.59,
+      "index": 62.24,
       "classification": "Regular",
       "components": {
-        "public_perception": 74.71,
-        "sentiment": 65.4,
-        "ratings": 92.0,
-        "weather": 54.5
+        "public_perception": 76.18,
+        "sentiment": 69.81,
+        "ratings": 88.0,
+        "weather": 52.94
       },
       "signals": {
         "posts_analyzed": 5,
-        "positive_terms": 20,
-        "negative_terms": 4,
+        "positive_terms": 22,
+        "negative_terms": 2,
         "bathing_status": "Própria",
         "bathing_severity": "good",
         "bathing_proper_percent": 100.0,
         "bathing_bad_percent": 0.0,
-        "bathing_points_total": 2,
-        "bathing_points_proper": 2,
+        "bathing_points_total": 1,
+        "bathing_points_proper": 1,
         "bathing_points_improper": 0,
         "bathing_points_interdicted": 0,
         "bathing_points_attention": 0,
         "bathing_index_penalty": 0.0,
         "bathing_points": [
           {
-            "point_id": "8",
+            "point_id": "10",
             "status": "Próprio",
             "subdivision": "",
-            "location": "Praia de Itaparica I",
-            "valid_until": "",
-            "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
-            "notes": ""
-          },
-          {
-            "point_id": "9",
-            "status": "Próprio",
-            "subdivision": "",
-            "location": "Praia de Itaparica II",
+            "location": "Praia de Itapuã - 'Beverly Hills'",
             "valid_until": "",
             "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
             "notes": ""
           }
         ],
-        "temperature_c": 22.8,
+        "temperature_c": 22.5,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 18.8,
+        "wind_kmh": 18.4,
         "uv_index": 0.0,
-        "wave_height_m": 1.62,
+        "wave_height_m": 1.64,
         "weather_warnings": [
           "Alta chance de chuva: 90%",
           "Mar agitado: 1.6 m"
@@ -445,13 +382,13 @@
         "latitude": -20.306238274165892,
         "longitude": -40.29086405492783
       },
-      "index": 63.28,
+      "index": 62.11,
       "classification": "Regular",
       "components": {
         "public_perception": 74.97,
         "sentiment": 63.65,
         "ratings": 96.0,
-        "weather": 53.71
+        "weather": 53.54
       },
       "signals": {
         "posts_analyzed": 5,
@@ -505,15 +442,78 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.6,
+        "temperature_c": 22.5,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 20.2,
+        "wind_kmh": 19.9,
         "uv_index": 0.0,
-        "wave_height_m": 1.36,
+        "wave_height_m": 1.38,
         "weather_warnings": [
           "Alta chance de chuva: 90%",
           "Mar agitado: 1.4 m"
+        ]
+      }
+    },
+    {
+      "id": "praia-de-itaparica",
+      "name": "Praia de Itaparica",
+      "neighborhood": "Itaparica",
+      "city": "Vila Velha",
+      "coordinates": {
+        "latitude": -20.36767644346582,
+        "longitude": -40.300268365631894
+      },
+      "index": 61.65,
+      "classification": "Regular",
+      "components": {
+        "public_perception": 74.71,
+        "sentiment": 65.4,
+        "ratings": 92.0,
+        "weather": 52.94
+      },
+      "signals": {
+        "posts_analyzed": 5,
+        "positive_terms": 20,
+        "negative_terms": 4,
+        "bathing_status": "Própria",
+        "bathing_severity": "good",
+        "bathing_proper_percent": 100.0,
+        "bathing_bad_percent": 0.0,
+        "bathing_points_total": 2,
+        "bathing_points_proper": 2,
+        "bathing_points_improper": 0,
+        "bathing_points_interdicted": 0,
+        "bathing_points_attention": 0,
+        "bathing_index_penalty": 0.0,
+        "bathing_points": [
+          {
+            "point_id": "8",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Itaparica I",
+            "valid_until": "",
+            "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
+            "notes": ""
+          },
+          {
+            "point_id": "9",
+            "status": "Próprio",
+            "subdivision": "",
+            "location": "Praia de Itaparica II",
+            "valid_until": "",
+            "source": "https://novo.vilavelha.es.gov.br/dashboards/balneabilidade.aspx",
+            "notes": ""
+          }
+        ],
+        "temperature_c": 22.5,
+        "precipitation_mm": 0.0,
+        "precipitation_probability_percent": 90.0,
+        "wind_kmh": 18.4,
+        "uv_index": 0.0,
+        "wave_height_m": 1.64,
+        "weather_warnings": [
+          "Alta chance de chuva: 90%",
+          "Mar agitado: 1.6 m"
         ]
       }
     },
@@ -526,13 +526,13 @@
         "latitude": -20.323015384962922,
         "longitude": -40.27340947525417
       },
-      "index": 62.64,
+      "index": 61.49,
       "classification": "Regular",
       "components": {
         "public_perception": 74.22,
         "sentiment": 64.64,
         "ratings": 92.0,
-        "weather": 53.17
+        "weather": 53.0
       },
       "signals": {
         "posts_analyzed": 5,
@@ -559,12 +559,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.6,
+        "temperature_c": 22.4,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 20.2,
+        "wind_kmh": 19.9,
         "uv_index": 0.0,
-        "wave_height_m": 1.36,
+        "wave_height_m": 1.38,
         "weather_warnings": [
           "Alta chance de chuva: 90%",
           "Mar agitado: 1.4 m"
@@ -580,13 +580,13 @@
         "latitude": -20.148500429485047,
         "longitude": -40.18470175214145
       },
-      "index": 62.6,
+      "index": 61.48,
       "classification": "Regular",
       "components": {
         "public_perception": 71.31,
         "sentiment": 64.48,
         "ratings": 84.0,
-        "weather": 55.47
+        "weather": 54.93
       },
       "signals": {
         "posts_analyzed": 5,
@@ -658,12 +658,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.7,
+        "temperature_c": 22.6,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 19.6,
+        "wind_kmh": 19.4,
         "uv_index": 0.0,
-        "wave_height_m": 1.12,
+        "wave_height_m": 1.14,
         "weather_warnings": [
           "Alta chance de chuva: 90%"
         ]
@@ -678,13 +678,13 @@
         "latitude": -20.301100642310963,
         "longitude": -40.27806216689104
       },
-      "index": 62.02,
+      "index": 61.0,
       "classification": "Regular",
       "components": {
         "public_perception": 72.19,
         "sentiment": 61.52,
         "ratings": 92.0,
-        "weather": 53.71
+        "weather": 53.54
       },
       "signals": {
         "posts_analyzed": 5,
@@ -711,12 +711,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.6,
+        "temperature_c": 22.5,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 20.2,
+        "wind_kmh": 19.9,
         "uv_index": 0.0,
-        "wave_height_m": 1.36,
+        "wave_height_m": 1.38,
         "weather_warnings": [
           "Alta chance de chuva: 90%",
           "Mar agitado: 1.4 m"
@@ -732,13 +732,13 @@
         "latitude": -20.280020125759233,
         "longitude": -40.28693975419632
       },
-      "index": 61.88,
+      "index": 60.87,
       "classification": "Regular",
       "components": {
         "public_perception": 71.87,
         "sentiment": 61.02,
         "ratings": 92.0,
-        "weather": 53.71
+        "weather": 53.54
       },
       "signals": {
         "posts_analyzed": 5,
@@ -846,12 +846,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.6,
+        "temperature_c": 22.5,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 20.2,
+        "wind_kmh": 19.9,
         "uv_index": 0.0,
-        "wave_height_m": 1.36,
+        "wave_height_m": 1.38,
         "weather_warnings": [
           "Alta chance de chuva: 90%",
           "Mar agitado: 1.4 m"
@@ -867,13 +867,13 @@
         "latitude": -20.303242760743622,
         "longitude": -40.285405737106096
       },
-      "index": 60.36,
+      "index": 59.52,
       "classification": "Regular",
       "components": {
         "public_perception": 68.5,
         "sentiment": 60.15,
         "ratings": 84.0,
-        "weather": 53.71
+        "weather": 53.54
       },
       "signals": {
         "posts_analyzed": 5,
@@ -900,12 +900,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.6,
+        "temperature_c": 22.5,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 20.2,
+        "wind_kmh": 19.9,
         "uv_index": 0.0,
-        "wave_height_m": 1.36,
+        "wave_height_m": 1.38,
         "weather_warnings": [
           "Alta chance de chuva: 90%",
           "Mar agitado: 1.4 m"
@@ -921,13 +921,13 @@
         "latitude": -20.324882763499275,
         "longitude": -40.269813371742046
       },
-      "index": 59.14,
+      "index": 58.49,
       "classification": "Regular",
       "components": {
         "public_perception": 65.12,
         "sentiment": 57.1,
         "ratings": 80.0,
-        "weather": 54.25
+        "weather": 54.08
       },
       "signals": {
         "posts_analyzed": 5,
@@ -954,12 +954,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.7,
+        "temperature_c": 22.5,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 20.2,
+        "wind_kmh": 19.9,
         "uv_index": 0.0,
-        "wave_height_m": 1.36,
+        "wave_height_m": 1.38,
         "weather_warnings": [
           "Alta chance de chuva: 90%",
           "Mar agitado: 1.4 m"
@@ -975,13 +975,13 @@
         "latitude": -20.300615293432287,
         "longitude": -40.29104712662063
       },
-      "index": 56.0,
+      "index": 55.65,
       "classification": "Regular",
       "components": {
         "public_perception": 58.8,
         "sentiment": 49.54,
         "ratings": 76.0,
-        "weather": 53.71
+        "weather": 53.54
       },
       "signals": {
         "posts_analyzed": 5,
@@ -1017,12 +1017,12 @@
             "notes": ""
           }
         ],
-        "temperature_c": 22.6,
+        "temperature_c": 22.5,
         "precipitation_mm": 0.0,
         "precipitation_probability_percent": 90.0,
-        "wind_kmh": 20.2,
+        "wind_kmh": 19.9,
         "uv_index": 0.0,
-        "wave_height_m": 1.36,
+        "wave_height_m": 1.38,
         "weather_warnings": [
           "Alta chance de chuva: 90%",
           "Mar agitado: 1.4 m"

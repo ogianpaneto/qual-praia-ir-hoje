@@ -25,13 +25,15 @@ python -m pip install -r requirements.txt
 python src/generate_index.py
 ```
 
-3. Na pasta do projeto, rode:
+3. Inicie o servidor local com a rota de atualização:
 
 ```powershell
-python -m http.server 8000
+python src/server.py
 ```
 
 Depois acesse `http://localhost:8000/web/`.
+
+Na interface, use o botão "Atualizar" para recalcular `data/latest_index.json` e atualizar os resultados exibidos.
 
 
 ## Aviso

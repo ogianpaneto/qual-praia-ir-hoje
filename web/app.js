@@ -2,8 +2,10 @@ const grid = document.querySelector("#beachGrid");
 const summary = document.querySelector("#summary");
 const updatedAt = document.querySelector("#updatedAt");
 const cityFilter = document.querySelector("#cityFilter");
+const refreshButton = document.querySelector("#refreshButton");
 let expandedBeachId = null;
 let selectedCity = "all";
+let isRefreshing = false;
 
 const fallbackData = {
   generated_at: new Date().toISOString(),
@@ -303,8 +305,53 @@ function render(data) {
   }).join("");
 }
 
-fetch("../data/latest_index.json")
-  .then((response) => response.ok ? response.json() : fallbackData)
+async function loadLatestIndex() {
+  const response = await fetch(`../data/latest_index.json?ts=${Date.now()}`, {
+    cache: "no-store"
+  });
+
+  if (!response.ok) {
+    return fallbackData;
+  }
+
+  return response.json();
+}
+
+function setRefreshState(refreshing, message = "") {
+  isRefreshing = refreshing;
+  refreshButton.disabled = refreshing;
+  refreshButton.textContent = refreshing ? "Atualizando..." : "Atualizar";
+}
+
+async function refreshIndex() {
+  if (isRefreshing) {
+    return;
+  }
+
+  setRefreshState(true, "Atualizando dados e recalculando o índice...");
+
+  try {
+    const response = await fetch("../api/regenerate", {
+      method: "POST"
+    });
+
+    if (!response.ok) {
+      throw new Error(`Falha ao atualizar índice (${response.status})`);
+    }
+
+    const result = await response.json();
+    const data = await loadLatestIndex();
+    render(data);
+    setRefreshState(false, result.message || "Índice atualizado com sucesso.");
+  } catch (error) {
+    console.error(error);
+    setRefreshState(false, "Não foi possível atualizar agora.");
+  }
+}
+
+refreshButton.addEventListener("click", refreshIndex);
+
+loadLatestIndex()
   .then(render)
   .catch(() => render(fallbackData));
 

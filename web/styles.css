@@ -37,6 +37,12 @@ body {
   border-bottom: 1px solid var(--line);
 }
 
+.topbar-actions {
+  display: grid;
+  justify-items: end;
+  gap: 10px;
+}
+
 .eyebrow {
   margin: 0 0 8px;
   color: var(--blue);
@@ -62,6 +68,31 @@ h1 {
   color: var(--muted);
   font-size: 0.95rem;
   white-space: nowrap;
+}
+
+.refresh-button {
+  min-height: 42px;
+  padding: 10px 14px;
+  color: #fff;
+  background: linear-gradient(135deg, var(--blue), #1f566f);
+  border: 0;
+  border-radius: 20px;
+  font: inherit;
+  font-size: 0.92rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.refresh-button:hover,
+.refresh-button:focus-visible {
+  background: linear-gradient(135deg, #255f7e, #1b4d62);
+  outline: 2px solid #a9c2b7;
+  outline-offset: 2px;
+}
+
+.refresh-button:disabled {
+  cursor: progress;
+  opacity: 0.72;
 }
 
 .summary {
@@ -473,6 +504,15 @@ footer span {
   .card header {
     align-items: start;
     flex-direction: column;
+  }
+
+  .topbar-actions {
+    width: 100%;
+    justify-items: start;
+  }
+
+  .refresh-status {
+    text-align: left;
   }
 
   .updated {
