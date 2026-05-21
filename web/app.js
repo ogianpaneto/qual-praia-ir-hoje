@@ -171,34 +171,32 @@ function cardDetails(beach) {
 
   return `
     <section class="details" id="details-${beach.id}" aria-label="Detalhes de ${beach.name}">
-      <div class="detail-group">
-        <h3>Índice</h3>
-        <div class="detail-list">
-          ${detailItem("Sentimento", formatNumber(components.sentiment))}
-          ${detailItem("Avaliações", formatNumber(components.ratings))}
-          ${detailItem("Percepção pública", formatNumber(components.public_perception))}
-          ${detailItem("Clima", formatNumber(components.weather))}
-        </div>
+    
+    <div class="detail-group">
+    <h3>Clima e mar</h3>
+    <div class="detail-list">
+    ${detailItem("Temperatura", `${formatNumber(signals.temperature_c)} °C`)}
+    ${detailItem("Chuva agora", `${formatNumber(signals.precipitation_mm)} mm`)}
+    ${detailItem("Chance de chuva nas prox. 5 horas", formatPercent(signals.precipitation_probability_percent))}
+    ${detailItem("Vento", `${formatNumber(signals.wind_kmh)} km/h`)}
+    ${detailItem("UV", formatNumber(signals.uv_index))}
+    ${detailItem("Ondas", `${formatNumber(signals.wave_height_m)} m`)}
+    </div>
+    </div>
+    
+    <div class="detail-group">
+      <h3>Índice</h3>
+      <div class="detail-list">
+        ${detailItem("Sentimento", formatNumber(components.sentiment))}
+        ${detailItem("Avaliações", formatNumber(components.ratings))}
+        ${detailItem("Percepção pública", formatNumber(components.public_perception))}
+        ${detailItem("Clima", formatNumber(components.weather))}
       </div>
-
-      <div class="detail-group">
-        <h3>Clima e mar</h3>
-        <div class="detail-list">
-          ${detailItem("Temperatura", `${formatNumber(signals.temperature_c)} °C`)}
-          ${detailItem("Chuva agora", `${formatNumber(signals.precipitation_mm)} mm`)}
-          ${detailItem("Chance de chuva", formatPercent(signals.precipitation_probability_percent))}
-          ${detailItem("Vento", `${formatNumber(signals.wind_kmh)} km/h`)}
-          ${detailItem("UV", formatNumber(signals.uv_index))}
-          ${detailItem("Ondas", `${formatNumber(signals.wave_height_m)} m`)}
-        </div>
-      </div>
+    </div>
 
       <div class="detail-group">
         <h3>Sinais</h3>
         <div class="detail-list">
-          ${detailItem("Balneabilidade", bathingSummary(signals))}
-          ${detailItem("Impacto balneabilidade", bathingPenaltyText(signals))}
-          ${detailItem("Pontos ruins", signals.bathing_bad_percent === null ? "Sem dado" : formatPercent(signals.bathing_bad_percent))}
           ${detailItem("Textos analisados", signals.posts_analyzed)}
           ${detailItem("Termos positivos", signals.positive_terms)}
           ${detailItem("Termos negativos", signals.negative_terms)}

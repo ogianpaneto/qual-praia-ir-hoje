@@ -219,7 +219,7 @@ def weather_warnings(snapshot: WeatherSnapshot) -> list[str]:
     if snapshot.wave_height_m >= 1.2:
         warnings.append(f"Mar agitado: {snapshot.wave_height_m:.1f} m")
 
-    if snapshot.uv_index >= 9:
-        warnings.append(f"UV muito alto: {snapshot.uv_index:.1f}")
+    if snapshot.uv_index >= 5:
+        warnings.append(f"UV alto: {snapshot.uv_index:.1f}")
 
     return warnings
