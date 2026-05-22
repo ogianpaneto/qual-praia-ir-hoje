@@ -1,5 +1,3 @@
-![screenshot](src/img/screenshot.png)
-
 ## O que o projeto faz
 
 - Lê reviews/postagens de exemplo em `data/reviews.csv`.
@@ -37,3 +35,5 @@ Na interface, use o botão "Atualizar" para recalcular `data/latest_index.json` 
 ## Aviso
 
 Este é um projeto de estudo de tecnologia, feito para experimentar scraping, NLP, dados climáticos e visualização web. Ele não deve ser usado para tomada de decisões reais. Consulte sempre fontes oficiais e atualizadas.
+
+![screenshot](src/img/screenshot.png)
