@@ -1,3 +1,5 @@
+![screenshot](src/img/screenshot.png)
+
 ## O que o projeto faz
 
 - Lê reviews/postagens de exemplo em `data/reviews.csv`.
