@@ -1,7 +1,3 @@
-# Qual praia ir hoje?
-
-MVP de IA/ML e NLP para combinar percepção pública, balneabilidade por pontos e clima em um índice dinâmico de qualidade de praias de Vitória, Vila Velha e Serra.
-
 ## O que o projeto faz
 
 - Lê reviews/postagens de exemplo em `data/reviews.csv`.
